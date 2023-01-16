@@ -18,7 +18,7 @@ This api assists in simple simulation of elevator functionality it does the foll
 
 - Note
 1) Ensure you create a new elevator before making a call 
-2) You can configure the number of floors in the properties config file
+2) You can configure the number of floors in the properties  file
 
 
 
